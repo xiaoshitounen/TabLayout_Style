@@ -10,8 +10,7 @@
 
     <!--Tab字体大小-->
     <style name="MyTextAppearance" parent="TextAppearance.AppCompat">
-        <item name="textAllCaps">true</item>
-        <item name="android:textAllCaps">true</item>
+        <item name="android:textAllCaps">false</item>
         <item name="android:textSize">20sp</item>
         <item name="android:textStyle">bold</item>
     </style>
