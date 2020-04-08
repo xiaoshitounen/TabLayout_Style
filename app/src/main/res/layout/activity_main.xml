@@ -124,6 +124,8 @@
         app:tabIndicatorColor="#ff7a61"
 
         app:tabMode="scrollable"
+
+        app:tabRippleColor="@null"
         />
 
 </LinearLayout>
